@@ -22,3 +22,4 @@ Run the Binary (In the bin folder within your $GOPATH)
 ```
 ## TODO
 - Not default the file to body.html since it's really just doing a GET request and you can pull down different types (ex: json responses) with this if you wanted.
+- Error check for non successful response codes (4xx, 5xx)
