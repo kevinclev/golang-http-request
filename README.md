@@ -20,3 +20,5 @@ Run the Binary (In the bin folder within your $GOPATH)
 ```shell
 ./golang-http-request
 ```
+## TODO
+- Not default the file to body.html since it's really just doing a GET request and you can pull down different types (ex: json responses) with this if you wanted.
